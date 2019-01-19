@@ -1,2 +1,3 @@
 # CS-202_Graph
-Graph Algorithm test for CS 202- Analysis of Algorithm
+Graph Algorithms for CS 202 Analysis of Algorithm
+Tests are included
